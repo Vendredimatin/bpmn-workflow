@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "camunda-bpmn-moddle": "^5.1.2"
+  }
+}
